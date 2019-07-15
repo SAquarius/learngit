@@ -1,2 +1,3 @@
 I want add somes words in a.txt
 I will learn how to use git and vim.
+Git has a mutable index called stage.
